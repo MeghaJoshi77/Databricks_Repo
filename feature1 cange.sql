@@ -5,3 +5,6 @@
 -- MAGIC print("Hellow. My third change feature branch")
 -- MAGIC
 -- MAGIC print("Hellow. My fourth change feature branch")
+-- MAGIC
+-- MAGIC print("Hellow. My fifth change feature branch")
+-- MAGIC print("Hellow. My sixth change feature branch")
